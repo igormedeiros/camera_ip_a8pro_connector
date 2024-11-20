@@ -19,3 +19,11 @@ env/
 
 # Environment variables
 .env
+
+# YOLO models
+*.pt
+*.onnx
+yolov8*.pt
+yolov8*.onnx
+models/*.pt
+models/*.onnx
